@@ -1,5 +1,6 @@
 # Hi, my name is Best and i'm a developer 
 most use language is C#,Lua
+Sometime i use JavaScript for development but not in github
 
 <!---
 PhubestSrikooon/PhubestSrikooon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
